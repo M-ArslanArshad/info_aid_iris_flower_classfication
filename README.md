@@ -1,1 +1,2 @@
 # info_aid_iris_flower_classfication
+This repository contains a machine learning project that focuses on classifying iris flowers into different species using decision tree. The Iris flower dataset is a popular dataset in the field of machine learning and is often used for learning and practicing classification techniques. In this project, we will explore the dataset, preprocess the data, train our model, and evaluate their performance for iris flower classification.
